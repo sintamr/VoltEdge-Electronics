@@ -37,7 +37,7 @@
             </ul>
           </li>
           <li>
-            <strong>SQL Methodology — Why CTEs?</strong>
+            <strong>SQL Methodology - Why CTEs?</strong>
             <ul>
               <li><strong>Modular Readability:</strong> Logic is broken down into named blocks (`WITH ... AS`) that read top-to-bottom like a clear analytical workflow, avoiding messy nested subqueries.</li>
               <li><strong>Reusability & Chaining:</strong> Blocks can be referenced multiple times and chained sequentially where subsequent steps build directly on prior outputs.</li>
